@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">Quiz App</string>
+
+    <!--this string defines the first quiz question-->
+    <string name="Question_1">What is 2 + 2 ?</string>
+    <!--this string defines the second quiz question-->
+    <string name="Question_2">What is 4 – 2 ?</string>
+    <!--this string defines the third quiz question-->
+    <string name="Question_3">What is 2 * 2 ?</string>
+    <!--this string defines the fourth quiz question-->
+    <string name="Question_4">What is 4 / 2 ?</string>
+    <!--this string defines the fifth quiz question-->
+    <string name="Question_5">What is 1 + 2 ?</string>
+
+
+    <!--this string defines the sixth quiz question-->
+    <string name="Question_6">What is Squre root of 4 ?</string>
+    <!--this string defines the seventh quiz question-->
+    <string name="Question_7">Distance between center and circumference of a circle is called ?</string>
+
+
+    <!--Option 1 for the quiz question-->
+    <string name="Option_1">One</string>
+    <!--Option 2 for the quiz question-->
+    <string name="Option_2">Two</string>
+    <!--Option 3 for the quiz question-->
+    <string name="Option_3">Three</string>
+    <!--Option 4 for the quiz question-->
+    <string name="Option_4">Four</string>
+    <!--Option 4 for the checkbox  quiz question-->
+    <string name="Option_5">Negative Two</string>
+
+    <!--hint for question 7-->
+    <string name="hint">Enter your answer here</string>
+
+    <!--submit text for submit button-->
+    <string name="Submit">Submit</string>
+
+    <!--Try Again text for submit button-->
+    <string name="Try_again">Try Again</string>
+
+
+
+</resources>

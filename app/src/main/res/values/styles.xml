@@ -1,0 +1,41 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <!-- New theme for Quiz App. -->
+    <style name="QuizAppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">#607D8B</item>
+        <item name="colorPrimaryDark">#37474F</item>
+        <item name="colorAccent">#546E7A</item>
+        <item name="colorButtonNormal">#607D8B</item>
+    </style>
+
+
+    <!-- Style for questions in Quiz App. -->
+    <style name="QuestionStyle">
+        <!-- Customize your theme here. -->
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:padding">8dp</item>
+        <item name="android:textSize">16sp</item>
+    </style>
+
+    <!-- Style for options under questions in Quiz App. -->
+    <style name="OptionStyle">
+        <!-- Customize your theme here. -->
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:paddingRight">8dp</item>
+        <item name="android:textSize">16sp</item>
+    </style>
+
+
+
+</resources>
